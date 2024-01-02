@@ -1,0 +1,13 @@
+<article>
+    <div>
+
+        <img [src]="chuckQuote.icon_url" alt="  you can't see chuck">
+    </div>
+    <div class="container">
+        <p class="quote">
+            {{chuckQuote.value ?? ''}}
+           </p> 
+    </div>
+  
+   <button class="primary" (click)="getQuote()" >Chuck</button>
+</article>
