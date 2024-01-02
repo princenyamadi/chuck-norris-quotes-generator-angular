@@ -1,0 +1,12 @@
+*{
+    font-family: 'Marck Script';
+}
+.title{
+    padding: 20px;
+}
+.app-home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}

@@ -1,0 +1,39 @@
+article{
+    width: 60vw;
+    height: 50vh;
+    padding: 30px;
+    display: flexBox;
+
+    align-items: center;
+    
+    align-content: center;
+    justify-content: center;
+    /* background-color: aliceblue; */
+}
+
+.container{
+/* width: 50%; */
+/* background-color: #000; */
+/* align-self: center; */
+/* display: flexbox; */
+align-items: center;
+justify-content: center;
+align-content: center;
+padding: 30px;
+font-family: 'Marck Script';
+font-size: 30px;
+}
+.box{
+    width: 100%;
+}
+
+.primary{
+    padding: 20px;
+    width: 150px;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: bisque;
+    font-family: 'Dancing Script'
+}

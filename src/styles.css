@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('assets/fonts/DancingScript-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marck Script';
+    src: url('assets/fonts/MarckScript-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
